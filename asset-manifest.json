@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sahil003tech/react-app2/static/css/main.073c9b0a.css",
+    "main.js": "/sahil003tech/react-app2/static/js/main.0a3bcfb2.js",
+    "static/js/787.1d7e17f9.chunk.js": "/sahil003tech/react-app2/static/js/787.1d7e17f9.chunk.js",
+    "static/media/logo.svg": "/sahil003tech/react-app2/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/sahil003tech/react-app2/index.html",
+    "main.073c9b0a.css.map": "/sahil003tech/react-app2/static/css/main.073c9b0a.css.map",
+    "main.0a3bcfb2.js.map": "/sahil003tech/react-app2/static/js/main.0a3bcfb2.js.map",
+    "787.1d7e17f9.chunk.js.map": "/sahil003tech/react-app2/static/js/787.1d7e17f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.0a3bcfb2.js"
+  ]
+}
